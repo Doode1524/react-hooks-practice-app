@@ -13,7 +13,7 @@ const items = [
     },
 
     {
-        title: 'How do you use eact?',
+        title: 'How do you use React?',
         content: 'You cry. And create components'
     }
 ]
